@@ -1,2 +1,2 @@
-export const providerNames = "OpenfortScaffoldProvider";
-export const providerImports = `import { OpenfortScaffoldProvider } from "./OpenfortScaffoldProvider";`;
+export const preContent = `import { OpenfortScaffoldProvider } from "./OpenfortScaffoldProvider";`;
+export const extraProviders = { OpenfortScaffoldProvider: {} };

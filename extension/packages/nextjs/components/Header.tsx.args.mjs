@@ -1,4 +1,1 @@
-export const extraMenuLinksObjects = `{
-  label: "Openfort",
-  href: "/openfort-login",
-}`;
+export const extraMenuLinksObjects = [{ label: "Openfort", href: "/openfort-login" }];
